@@ -1,6 +1,6 @@
 # keshihua
 bookstore书城项目可视化
-<br>
+<br><br>
 一．项目概述
 Bookstore是一个网上购书的电子商务平台。平台采用B2C的购物模式：Bookstore网站管理和维护着所有代售书籍，消费者能在网站上浏览书籍、加入购物、购买书籍、支付；商家根据订单将书籍邮寄给消费者。
 二．数据描述
@@ -41,11 +41,11 @@ Bookstore是一个网上购书的电子商务平台。平台采用B2C的购物�
 9.	统计销售数前三的书籍名字
 10.	统计各个时间段购买书籍数量（0-4点，4-8点，8-12点，12-16点，16-20点，20-24点）（柱状图）
 
-bookstore运行效果图
+bookstore运行效果图<br>
 ![图片](https://user-images.githubusercontent.com/89886362/174523428-b53bb308-593f-43ab-9d71-264116cff9cb.png)
 
 
-可视化效果图
+可视化效果图<br>
 ![图片](https://user-images.githubusercontent.com/89886362/174523255-f85e6c6b-9ac6-456d-8ac6-ee53902ce1e0.png)
 
 ![图片](https://user-images.githubusercontent.com/89886362/174523292-619f6b18-aaa9-47bd-a90e-31ec93cb2f35.png)
